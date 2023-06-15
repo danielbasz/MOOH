@@ -1,3 +1,2 @@
 # MOOH
-
-esse tb tá valendo
+Media out of home weather API fetch + after effects CLI render placeholder 
